@@ -1,0 +1,10 @@
+#!/mnt/81c67258-780b-4cde-9a39-48886e76133b/study/python_projects/python_project/bin/python3.7
+# -*- coding: utf-8 -*-
+import re
+import sys
+
+from rsa.cli import sign
+
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw?|\.exe)?$', '', sys.argv[0])
+    sys.exit(sign())

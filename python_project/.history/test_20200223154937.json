@@ -1,0 +1,464 @@
+{
+	"kind": "customsearch#search",
+	"url": {
+		"type": "application/json",
+		"template": "https: //www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+	},
+	"queries": {
+		"request": [
+			{
+				"title": "Google Custom Search - Cervantes",
+				"totalResults": "48400000",
+				"searchTerms": "Cervantes",
+				"count": 10,
+				"startIndex": 1,
+				"inputEncoding": "utf8",
+				"outputEncoding": "utf8",
+				"safe": "off",
+				"cx": "003639206582496359336:lgzfdwdn2kb"
+			}
+		],
+		"nextPage": [
+			{
+				"title": "Google Custom Search - Cervantes",
+				"totalResults": "48400000",
+				"searchTerms": "Cervantes",
+				"count": 10,
+				"startIndex": 11,
+				"inputEncoding": "utf8",
+				"outputEncoding": "utf8",
+				"safe": "off",
+				"cx": "003639206582496359336:lgzfdwdn2kb"
+			}
+		]
+	},
+	"context": { "title": "customsearch" },
+	"searchInformation": {
+		"searchTime": 0.569778,
+		"formattedSearchTime": "0.57",
+		"totalResults": "48400000",
+		"formattedTotalResults": "48,400,000"
+	},
+	"items": [
+		{
+			"kind": "customsearch#result",
+			"title": "Cervantes Masterpiece - Denver",
+			"htmlTitle": "<b>Cervantes</b> Masterpiece - Denver",
+			"link": "https://www.cervantesmasterpiece.com/",
+			"displayLink": "www.cervantesmasterpiece.com",
+			"snippet": "Wildcard Wednesdays & Grass for that Ass Present. Dusty Green Bones Band ft. \nTyler Grant. Three Days in the Saddle, Devil's Share. Cervantes' Other\xa0...",
+			"htmlSnippet": "Wildcard Wednesdays &amp; Grass for that Ass Present. Dusty Green Bones Band ft. <br>\nTyler Grant. Three Days in the Saddle, Devil&#39;s Share. <b>Cervantes</b>&#39; Other&nbsp;...",
+			"cacheId": "SFaXhh7M7VAJ",
+			"formattedUrl": "https://www.cervantesmasterpiece.com/",
+			"htmlFormattedUrl": "https://www.<b>cervantes</b>masterpiece.com/",
+			"pagemap": {
+				"metatags": [
+					{
+						"fb:app_id": "143383105698310",
+						"viewport": "user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1"
+					}
+				]
+			}
+		},
+		{
+			"kind": "customsearch#result",
+			"title": "Miguel de Cervantes - Wikipedia",
+			"htmlTitle": "Miguel de <b>Cervantes</b> - Wikipedia",
+			"link": "https://en.wikipedia.org/wiki/Miguel_de_Cervantes",
+			"displayLink": "en.wikipedia.org",
+			"snippet": "Miguel de Cervantes Saavedra was a Spanish writer who is widely regarded as \nthe greatest writer in the Spanish language and one of the world's pre-eminent\xa0...",
+			"htmlSnippet": "Miguel de <b>Cervantes</b> Saavedra was a Spanish writer who is widely regarded as <br>\nthe greatest writer in the Spanish language and one of the world&#39;s pre-eminent&nbsp;...",
+			"cacheId": "uu1gJCVvyUUJ",
+			"formattedUrl": "https://en.wikipedia.org/wiki/Miguel_de_Cervantes",
+			"htmlFormattedUrl": "https://en.wikipedia.org/wiki/Miguel_de_<b>Cervantes</b>",
+			"pagemap": {
+				"hcard": [
+					{
+						"role": "Soldier, novelist, poet, playwright, accountant",
+						"fn": "Miguel de Cervantes Saavedra",
+						"category": "Spanish"
+					}
+				],
+				"cse_thumbnail": [
+					{
+						"src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYK4Lmas4AywB-6pzFXVerhEfglk3A2hLtoGAnPvFkeDrnRy-S0PZe7kMu",
+						"width": "196",
+						"height": "257"
+					}
+				],
+				"person": [
+					{ "role": "Soldier, novelist, poet, playwright, accountant" }
+				],
+				"metatags": [
+					{
+						"referrer": "origin",
+						"og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Cervantes_J%C3%A1uregui.jpg/1200px-Cervantes_J%C3%A1uregui.jpg"
+					}
+				],
+				"cse_image": [
+					{
+						"src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Cervantes_J%C3%A1uregui.jpg/1200px-Cervantes_J%C3%A1uregui.jpg"
+					}
+				]
+			}
+		},
+		{
+			"kind": "customsearch#result",
+			"title": "Calendar – Cervantes Masterpiece",
+			"htmlTitle": "Calendar – <b>Cervantes</b> Masterpiece",
+			"link": "https://www.cervantesmasterpiece.com/calendar/",
+			"displayLink": "www.cervantesmasterpiece.com",
+			"snippet": "TAUK and Friends: Squad Tour 2020 w/ Aaron Kamm and The One Drops. \nCervantes' Other SideDenver, CO. Feb 22 Doors: 7:30 PM / Show: 8:30 PM Ages \n16+\xa0...",
+			"htmlSnippet": "TAUK and Friends: Squad Tour 2020 w/ Aaron Kamm and The One Drops. <br>\n<b>Cervantes</b>&#39; Other SideDenver, CO. Feb 22 Doors: 7:30 PM / Show: 8:30 PM Ages <br>\n16+&nbsp;...",
+			"cacheId": "6TGFUnXQAJ0J",
+			"formattedUrl": "https://www.cervantesmasterpiece.com/calendar/",
+			"htmlFormattedUrl": "https://www.<b>cervantes</b>masterpiece.com/calendar/",
+			"pagemap": {
+				"metatags": [
+					{
+						"fb:app_id": "143383105698310",
+						"viewport": "user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1"
+					}
+				]
+			}
+		},
+		{
+			"kind": "customsearch#result",
+			"title": "Miguel de Cervantes | Biography, Books, Plays, & Facts | Britannica",
+			"htmlTitle": "Miguel de <b>Cervantes</b> | Biography, Books, Plays, &amp; Facts | Britannica",
+			"link": "https://www.britannica.com/biography/Miguel-de-Cervantes",
+			"displayLink": "www.britannica.com",
+			"snippet": "Miguel de Cervantes, novelist, playwright, and poet, the creator of Don Quixote \nand the most important and celebrated figure in Spanish literature. His novel Don\n\xa0...",
+			"htmlSnippet": "Miguel de <b>Cervantes</b>, novelist, playwright, and poet, the creator of Don Quixote <br>\nand the most important and celebrated figure in Spanish literature. His novel Don<br>\n&nbsp;...",
+			"cacheId": "Wj9aYF2xVz0J",
+			"formattedUrl": "https://www.britannica.com/biography/Miguel-de-Cervantes",
+			"htmlFormattedUrl": "https://www.britannica.com/biography/Miguel-de-<b>Cervantes</b>",
+			"pagemap": {
+				"cse_thumbnail": [
+					{
+						"src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSL2ueq1O-3iwW3eFaVD_iWNsl2lc9U7vni3_z02tkVQwzjytDzMxdfmGA",
+						"width": "202",
+						"height": "250"
+					}
+				],
+				"metatags": [
+					{
+						"p:domain_verify": "5247c07bac63b6b3250f68cfe355c9a2",
+						"og:image": "https://cdn.britannica.com/61/66361-050-40CE1C09/Miguel-de-Cervantes-engraving-Gregorio-Ferro-E.jpg",
+						"twitter:card": "summary_large_image",
+						"og:type": "ARTICLE",
+						"og:site_name": "Encyclopedia Britannica",
+						"og:title": "Miguel de Cervantes | Biography, Books, Plays, & Facts",
+						"og:image:type": "image/jpeg",
+						"fb:pages": "74442380906",
+						"og:description": "Miguel de Cervantes, novelist, playwright, and poet, the creator of Don Quixote and the most important and celebrated figure in Spanish literature. His novel Don Quixote has been translated, in full or in part, into more than 60 languages. Learn more about Cervantes in this article.",
+						"twitter:image": "https://cdn.britannica.com/61/66361-050-40CE1C09/Miguel-de-Cervantes-engraving-Gregorio-Ferro-E.jpg",
+						"fb:app_id": "1887621861548296",
+						"twitter:site": "@britannica",
+						"viewport": "width=device-width, initial-scale=1.0",
+						"twitter:description": "Miguel de Cervantes, novelist, playwright, and poet, the creator of Don Quixote and the most important and celebrated figure in Spanish literature. His novel Don Quixote has been translated, in full or in part, into more than 60 languages. Learn more about Cervantes in this article.",
+						"og:url": "https://www.britannica.com/biography/Miguel-de-Cervantes"
+					}
+				],
+				"cse_image": [
+					{
+						"src": "https://cdn.britannica.com/61/66361-050-40CE1C09/Miguel-de-Cervantes-engraving-Gregorio-Ferro-E.jpg"
+					}
+				]
+			}
+		},
+		{
+			"kind": "customsearch#result",
+			"title": "Proyecto Cervantes",
+			"htmlTitle": "Proyecto <b>Cervantes</b>",
+			"link": "http://cervantes.tamu.edu/",
+			"displayLink": "cervantes.tamu.edu",
+			"snippet": "Cervantes Project. Eduardo Urbina, Director. Other contributors. Search the \nCervantes Project. This material is based, in part, upon work supported by the\xa0...",
+			"htmlSnippet": "<b>Cervantes</b> Project. Eduardo Urbina, Director. Other contributors. Search the <br>\n<b>Cervantes</b> Project. This material is based, in part, upon work supported by the&nbsp;...",
+			"cacheId": "tFaNtH_XvY8J",
+			"formattedUrl": "cervantes.tamu.edu/",
+			"htmlFormattedUrl": "<b>cervantes</b>.tamu.edu/",
+			"pagemap": {
+				"cse_thumbnail": [
+					{
+						"src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOcUKMJYKmkyv9QMFZVJFZ1mv30n3Od-SXVxOo_AOBSDWm8cfcRmgx0QG1",
+						"width": "269",
+						"height": "187"
+					}
+				],
+				"cse_image": [
+					{
+						"src": "http://cervantes.dh.tamu.edu/V2/CPI/variorum/images/cover_pic.jpg"
+					}
+				]
+			}
+		},
+		{
+			"kind": "customsearch#result",
+			"title": "Official Website - Assemblymember Sabrina Cervantes ...",
+			"htmlTitle": "Official Website - Assemblymember Sabrina <b>Cervantes</b> ...",
+			"link": "https://a60.asmdc.org/",
+			"displayLink": "a60.asmdc.org",
+			"snippet": "Assemblymember Sabrina Cervantes represents the 60th Assembly District.",
+			"htmlSnippet": "Assemblymember Sabrina <b>Cervantes</b> represents the 60th Assembly District.",
+			"cacheId": "IFMEoDmnmogJ",
+			"formattedUrl": "https://a60.asmdc.org/",
+			"htmlFormattedUrl": "https://a60.asmdc.org/",
+			"pagemap": {
+				"cse_thumbnail": [
+					{
+						"src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT66kNPSpNWeZnmJcJqsYW5qgNEAEnkeuF_8_1TaifmxAH7rELxuIvC2A",
+						"width": "405",
+						"height": "124"
+					}
+				],
+				"metatags": [
+					{
+						"og:type": "website",
+						"twitter:card": "summary",
+						"twitter:title": "Official Website - Assemblymember Sabrina Cervantes Representing the",
+						"og:site_name": "Official Website - Assemblymember Sabrina Cervantes Representing the 60th California Assembly District",
+						"viewport": "width=device-width, initial-scale=1.0",
+						"twitter:url": "https://a60.asmdc.org/",
+						"og:title": "Official Website - Assemblymember Sabrina Cervantes Representing the 60th California Assembly District",
+						"og:url": "https://a60.asmdc.org/"
+					}
+				],
+				"cse_image": [
+					{
+						"src": "https://a60.asmdc.org/sites/a60.asmdc.org/files/Slideshow_Image/Cervantes_AB-296-Women-Veterans-Health_1920.jpg"
+					}
+				]
+			}
+		},
+		{
+			"kind": "customsearch#result",
+			"title": "Miguel de Cervantes - Don Quixote, Books & Facts - Biography",
+			"htmlTitle": "Miguel de <b>Cervantes</b> - Don Quixote, Books &amp; Facts - Biography",
+			"link": "https://www.biography.com/writer/miguel-de-cervantes",
+			"displayLink": "www.biography.com",
+			"snippet": "Apr 26, 2016 ... Born in Spain in 1547, Miguel de Cervantes wrote Don Quixote, the first modern \nnovel that became an international best-seller. Learn more\xa0...",
+			"htmlSnippet": "Apr 26, 2016 <b>...</b> Born in Spain in 1547, Miguel de <b>Cervantes</b> wrote Don Quixote, the first modern <br>\nnovel that became an international best-seller. Learn more&nbsp;...",
+			"cacheId": "OT_fiTKsaDIJ",
+			"formattedUrl": "https://www.biography.com/writer/miguel-de-cervantes",
+			"htmlFormattedUrl": "https://www.biography.com/writer/miguel-de-<b>cervantes</b>",
+			"pagemap": {
+				"hcard": [
+					{
+						"bday": "1547-09-29",
+						"fn": "Miguel de Cervantes",
+						"photo": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE4MDAzNDEwNDc4MDA3ODIy/miguel-de-cervantes-9242997-1-402.jpg"
+					}
+				],
+				"cse_thumbnail": [
+					{
+						"src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzSpNsTEFIACc1BBaqkkkocnrD9ekIH2lAZlg2qBSJq0YsnWhSgEnFlSo",
+						"width": "225",
+						"height": "225"
+					}
+				],
+				"person": [
+					{
+						"image": "https://www.biography.com/.image/t_share/MTE4MDAzNDEwNDc4MDA3ODIy/miguel-de-cervantes-9242997-1-402.jpg",
+						"birthdate": "c. September 29, 1547",
+						"datemodified": "2019-07-23T12:08:07-07:00",
+						"name": "Miguel de Cervantes",
+						"description": "Born in Spain in 1547, Miguel de Cervantes wrote <i>Don Quixote</i>, the first modern novel that became an international best-seller. Learn more about de Cervantes at Biography.com.",
+						"deathdate": "April 22, 1616",
+						"additionalname": "Miguel de Cervantes",
+						"headline": "Miguel de Cervantes Biography",
+						"datepublished": "2016-04-26T14:28:30-07:00"
+					}
+				],
+				"metatags": [
+					{
+						"pagetype": "person",
+						"og:image": "https://www.biography.com/.image/t_share/MTE4MDAzNDEwNDc4MDA3ODIy/miguel-de-cervantes-9242997-1-402.jpg",
+						"twitter:card": "summary_large_image",
+						"og:site_name": "Biography",
+						"twitter:url": "https://www.biography.com/writer/miguel-de-cervantes",
+						"apple-mobile-web-app-title": "Biography",
+						"section": "Writers",
+						"phx:content-item-id": "ci01a33b7a03d5860e",
+						"og:description": "Spanish writer Miguel de Cervantes created one of the world's greatest literary masterpieces, 'Don Quixote,' in the early 1600s.",
+						"twitter:image": "https://www.biography.com/.image/t_share/MTE4MDAzNDEwNDc4MDA3ODIy/miguel-de-cervantes-9242997-1-402.jpg",
+						"dcterms.rightsholder": "Biography and the Biography logo are registered trademarks of A&E Television Networks, LLC.",
+						"phx:content-object-type": "ContentPerson",
+						"twitter:site": "@bio",
+						"parsely-link": "https://www.biography.com/writer/miguel-de-cervantes",
+						"sailthru.title": "Miguel de Cervantes",
+						"parsely-image-url": "https://www.biography.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTE4MDAzNDEwNDc4MDA3ODIy/miguel-de-cervantes-9242997-1-402.jpg",
+						"modified": "2019-07-23T19:08:07Z",
+						"parsely-section": "Writers",
+						"dcterms.datecopyrighted": "2020",
+						"sailthru.date": "2016-04-26T21:28:30Z",
+						"og:type": "website",
+						"handheldfriendly": "True",
+						"twitter:domain": "www.biography.com",
+						"parsely-post-id": "ci01a33b7a03d5860e",
+						"msvalidate.01": "565AA37CB662E60BF24DDCABEC686D8F",
+						"og:title": "Miguel de Cervantes",
+						"pinterest": "nohover",
+						"published": "2016-04-26T21:28:30Z",
+						"fb:pages": "123492867697144",
+						"parsely-title": "Miguel de Cervantes - Biography",
+						"parsely-pub-date": "2016-04-26T21:28:30Z",
+						"referrer": "unsafe-url",
+						"pinterest-rich-pin": "true",
+						"fb:app_id": "104784826244596",
+						"parsely-tags": "William Shakespeare,Federico García Lorca,Charles Dickens,Dante",
+						"sailthru.description": "Born in Spain in 1547, Miguel de Cervantes wrote <i>Don Quixote</i>, the first modern novel that became an international best-seller. Learn more about de Cervantes at Biography.com.",
+						"apple-mobile-web-app-status-bar-style": "black",
+						"item-id": "ci01a33b7a03d5860e",
+						"viewport": "width=device-width, initial-scale=1",
+						"apple-mobile-web-app-capable": "no",
+						"twitter:description": "Spanish writer Miguel de Cervantes created one of the world's greatest literary masterpieces, 'Don Quixote,' in the early 1600s.",
+						"mobileoptimized": "320",
+						"og:url": "https://www.biography.com/writer/miguel-de-cervantes",
+						"sailthru.image.full": "https://www.biography.com/.image/t_share/MTE4MDAzNDEwNDc4MDA3ODIy/miguel-de-cervantes-9242997-1-402.jpg",
+						"format-detection": "telephone=no"
+					}
+				],
+				"cse_image": [
+					{
+						"src": "https://www.biography.com/.image/t_share/MTE4MDAzNDEwNDc4MDA3ODIy/miguel-de-cervantes-9242997-1-402.jpg"
+					}
+				]
+			}
+		},
+		{
+			"kind": "customsearch#result",
+			"title": "Spain finds Don Quixote writer Cervantes' tomb in Madrid - BBC News",
+			"htmlTitle": "Spain finds Don Quixote writer <b>Cervantes</b>&#39; tomb in Madrid - BBC News",
+			"link": "https://www.bbc.com/news/world-europe-31852032",
+			"displayLink": "www.bbc.com",
+			"snippet": "Mar 17, 2015 ... Forensic scientists say they have found the tomb of Spain's much-loved giant of \nliterature, Miguel de Cervantes, nearly 400 years after his death\xa0...",
+			"htmlSnippet": "Mar 17, 2015 <b>...</b> Forensic scientists say they have found the tomb of Spain&#39;s much-loved giant of <br>\nliterature, Miguel de <b>Cervantes</b>, nearly 400 years after his death&nbsp;...",
+			"cacheId": "DZ3R4QZTaTEJ",
+			"formattedUrl": "https://www.bbc.com/news/world-europe-31852032",
+			"htmlFormattedUrl": "https://www.bbc.com/news/world-europe-31852032",
+			"pagemap": {
+				"cse_thumbnail": [
+					{
+						"src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQoWE1OTs_ruaSbGWONb57oVH3lHSdb_e2dM-0V-pbhlAo0EnJ4hOrm3n0I",
+						"width": "280",
+						"height": "180"
+					}
+				],
+				"metatags": [
+					{
+						"x-country": "us",
+						"og:image": "https://ichef.bbci.co.uk/news/1024/media/images/81695000/png/_81695436_image7.png",
+						"apple-itunes-app": "app-id=364147881, app-argument=https://www.bbc.com/news/world-europe-31852032?utm_medium=banner&utm_content=apple-itunes-app",
+						"twitter:card": "summary_large_image",
+						"theme-color": "#bb1919",
+						"og:site_name": "BBC News",
+						"apple-mobile-web-app-title": "BBC News",
+						"msapplication-tileimage": "BBC News",
+						"og:description": "Scientists say they have found the tomb of Spanish literary giant Miguel de Cervantes, nearly 400 years after the Don Quixote writer's death.",
+						"twitter:creator": "@BBCWorld",
+						"twitter:image:alt": "Experts examine the remains of coffins at a table inside the crypt of Madrid's Trinitarian convent in this handout picture released by Madrid's City Hall January 26, 2015",
+						"twitter:site": "@BBCWorld",
+						"fb:admins": "100004154058350",
+						"application-name": "BBC News",
+						"msapplication-tilecolor": "#bb1919",
+						"x-audience": "US",
+						"og:type": "article",
+						"article:section": "Europe",
+						"og:image:alt": "BBC News. Experts examine the remains of coffins at a table inside the crypt of Madrid's Trinitarian convent in this handout picture released by Madrid's City Hall January 26, 2015",
+						"twitter:title": "Spain finds tomb of writer Cervantes",
+						"twitter:domain": "www.bbc.com",
+						"og:title": "Spain finds tomb of writer Cervantes",
+						"fb:pages": "1143803202301544,317278538359186,1392506827668140,742734325867560,185246968166196,156060587793370,137920769558355,193435954068976,21263239760,156400551056385,929399697073756,154344434967,228735667216,80758950658,260212261199,294662213128,1086451581439054,283348121682053,295830058648,239931389545417,304314573046,310719525611571,647687225371774,1159932557403143,286567251709437,1731770190373618,125309456546,163571453661989,285361880228,512423982152360,238003846549831,176663550714,260967092113,118450564909230,100978706649892,15286229625,122103087870579,120655094632228,102814153147070,124715648647,153132638110668,150467675018739",
+						"article:author": "https://www.facebook.com/bbcnews",
+						"twitter:image:src": "https://ichef.bbci.co.uk/news/1024/media/images/81695000/png/_81695436_image7.png",
+						"fb:app_id": "1609039196070050",
+						"viewport": "width=device-width, initial-scale=1, user-scalable=1",
+						"cps_audience": "US",
+						"twitter:description": "Scientists say they have found the tomb of Spanish literary giant Miguel de Cervantes, nearly 400 years after the Don Quixote writer's death.",
+						"og:locale": "en_GB",
+						"mobile-web-app-capable": "yes",
+						"cps_changequeueid": "151205877",
+						"og:url": "https://www.bbc.com/news/world-europe-31852032"
+					}
+				],
+				"cse_image": [
+					{
+						"src": "https://ichef.bbci.co.uk/news/1024/media/images/81695000/png/_81695436_image7.png"
+					}
+				]
+			}
+		},
+		{
+			"kind": "customsearch#result",
+			"title": "Publications of the Cervantes Society of America",
+			"htmlTitle": "Publications of the <b>Cervantes</b> Society of America",
+			"link": "https://www.h-net.org/~cervantes/bcsalist.htm",
+			"displayLink": "www.h-net.org",
+			"snippet": "Publications of the Cervantes Society of America, including its journal Cervantes.",
+			"htmlSnippet": "Publications of the <b>Cervantes</b> Society of America, including its journal <b>Cervantes</b>.",
+			"cacheId": "54tyOE48iGAJ",
+			"formattedUrl": "https://www.h-net.org/~cervantes/bcsalist.htm",
+			"htmlFormattedUrl": "https://www.h-net.org/~<b>cervantes</b>/bcsalist.htm",
+			"pagemap": {
+				"metatags": [
+					{ "title": "Publications of the Cervantes Society of America" }
+				]
+			}
+		},
+		{
+			"kind": "customsearch#result",
+			"title": "Specialty Coffee Roaster Food Industry Coffee Service – Cervantes ...",
+			"htmlTitle": "Specialty Coffee Roaster Food Industry Coffee Service – <b>Cervantes</b> ...",
+			"link": "https://www.cervantescoffee.com/",
+			"displayLink": "www.cervantescoffee.com",
+			"snippet": "We provide coffee service to restaurants coffee shops and gourmet markets. We \nare focused in delivering custom coffee services in the Washington DC Metro\xa0...",
+			"htmlSnippet": "We provide coffee service to restaurants coffee shops and gourmet markets. We <br>\nare focused in delivering custom coffee services in the Washington DC Metro&nbsp;...",
+			"cacheId": "mJbg_mykzi8J",
+			"formattedUrl": "https://www.cervantescoffee.com/",
+			"htmlFormattedUrl": "https://www.<b>cervantes</b>coffee.com/",
+			"pagemap": {
+				"cse_thumbnail": [
+					{
+						"src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRDC9SVOnlmiePxQ7M3xwcFgo4pEOVxtJRE3KIUVTeR25EUE7RY3Vpnixw",
+						"width": "225",
+						"height": "225"
+					}
+				],
+				"organization": [
+					{
+						"logo": "https://cdn.shopify.com/s/files/1/0200/0240/files/LogosCervantes4_250x.png?v=1567108933",
+						"url": "https://www.cervantescoffee.com/"
+					},
+					{
+						"logo": "https://cdn.shopify.com/s/files/1/0200/0240/files/LogosCervantes-06_300x.png?v=1564767449",
+						"url": "https://www.cervantescoffee.com/"
+					}
+				],
+				"metatags": [
+					{
+						"og:image": "http://cdn.shopify.com/s/files/1/0200/0240/files/Cervantes_Square_Logo_Favicon_1200x1200.png?v=1564767959",
+						"og:type": "website",
+						"twitter:card": "summary_large_image",
+						"twitter:title": "Specialty Coffee Roaster Food Industry Coffee Service",
+						"theme-color": "#ed6968",
+						"og:site_name": "Cervantes Coffee Roasters",
+						"og:title": "Specialty Coffee Roaster Food Industry Coffee Service",
+						"shopify-checkout-api-token": "b0b0676d6092990cde718b3c2901676d",
+						"og:description": "We provide coffee service to restaurants coffee shops and gourmet markets. We are focused in delivering custom coffee services in the Washington DC Metro area.",
+						"og:image:secure_url": "https://cdn.shopify.com/s/files/1/0200/0240/files/Cervantes_Square_Logo_Favicon_1200x1200.png?v=1564767959",
+						"viewport": "width=device-width,initial-scale=1",
+						"twitter:description": "We provide coffee service to restaurants coffee shops and gourmet markets. We are focused in delivering custom coffee services in the Washington DC Metro area.",
+						"shopify-digital-wallet": "/2000240/digital_wallets/dialog",
+						"og:url": "https://www.cervantescoffee.com/"
+					}
+				],
+				"cse_image": [
+					{
+						"src": "http://cdn.shopify.com/s/files/1/0200/0240/files/Cervantes_Square_Logo_Favicon_1200x1200.png?v=1564767959"
+					}
+				]
+			}
+		}
+	]
+}
